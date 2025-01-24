@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-with-zeebe-node",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nextjs-with-zeebe-node",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nextjs-with-zeebe-node --web",
+  "targets": {}
+}
